@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "line-desktop-mcp": {
+      "command": "npx",
+      "args": ["line-desktop-mcp@latest"]
+    }
+  }
+}
